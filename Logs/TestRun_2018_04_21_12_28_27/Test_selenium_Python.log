@@ -1,0 +1,69 @@
+2018-04-21 12:28:36,940 [line:422] POST http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/elements {"sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d", "using": "xpath", "value": "/html/body/table/tbody/tr/td[1]/a[1]"}
+2018-04-21 12:28:36,974 [line:517] Finished Request
+2018-04-21 12:28:36,974 [line:422] POST http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/element/0.9985090804159436-1/click {"id": "0.9985090804159436-1", "sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d"}
+2018-04-21 12:28:37,933 [line:517] Finished Request
+2018-04-21 12:28:37,933 [line:422] POST http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/element {"sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d", "using": "id", "value": "linkById"}
+2018-04-21 12:28:37,955 [line:517] Finished Request
+2018-04-21 12:28:37,955 [line:422] POST http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/element/0.16497292136963915-1/click {"id": "0.16497292136963915-1", "sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d"}
+2018-04-21 12:28:38,271 [line:517] Finished Request
+2018-04-21 12:28:38,272 [line:422] POST http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/elements {"sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d", "using": "xpath", "value": "/html/body/h2"}
+2018-04-21 12:28:38,294 [line:517] Finished Request
+2018-04-21 12:28:38,295 [line:422] GET http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/element/0.9212360411625884-1/text {"id": "0.9212360411625884-1", "sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d"}
+2018-04-21 12:28:38,319 [line:517] Finished Request
+2018-04-21 12:28:38,319 [line:422] POST http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/elements {"sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d", "using": "xpath", "value": "/html/body/a"}
+2018-04-21 12:28:38,340 [line:517] Finished Request
+2018-04-21 12:28:38,340 [line:422] POST http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/element/0.9212360411625884-2/click {"id": "0.9212360411625884-2", "sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d"}
+2018-04-21 12:28:38,498 [line:517] Finished Request
+2018-04-21 12:28:38,498 [line:422] GET http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/title {"sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d"}
+2018-04-21 12:28:38,511 [line:517] Finished Request
+2018-04-21 12:28:38,520 [line:422] POST http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/element {"sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d", "using": "id", "value": "linkById"}
+2018-04-21 12:28:38,535 [line:517] Finished Request
+2018-04-21 12:28:38,536 [line:422] POST http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/element/0.7666991686374995-1/click {"id": "0.7666991686374995-1", "sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d"}
+2018-04-21 12:28:38,662 [line:517] Finished Request
+2018-04-21 12:28:38,663 [line:422] POST http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/elements {"sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d", "using": "xpath", "value": "/html/body/h2"}
+2018-04-21 12:28:38,679 [line:517] Finished Request
+2018-04-21 12:28:38,680 [line:422] GET http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/element/0.23832921480904656-1/text {"id": "0.23832921480904656-1", "sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d"}
+2018-04-21 12:28:38,703 [line:517] Finished Request
+2018-04-21 12:28:38,703 [line:422] POST http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/elements {"sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d", "using": "xpath", "value": "/html/body/a"}
+2018-04-21 12:28:38,716 [line:517] Finished Request
+2018-04-21 12:28:38,716 [line:422] POST http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/element/0.23832921480904656-2/click {"id": "0.23832921480904656-2", "sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d"}
+2018-04-21 12:28:38,856 [line:517] Finished Request
+2018-04-21 12:28:38,857 [line:422] GET http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d/title {"sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d"}
+2018-04-21 12:28:38,866 [line:517] Finished Request
+2018-04-21 12:28:38,866 [line:22] Got error: 
+2018-04-21 12:28:38,869 [line:422] DELETE http://127.0.0.1:65147/session/1a5f10c13ebe7808fb9f23403bdfda8d {"sessionId": "1a5f10c13ebe7808fb9f23403bdfda8d"}
+2018-04-21 12:28:38,907 [line:517] Finished Request
+2018-04-21 12:28:52,253 [line:422] POST http://127.0.0.1:65173/session/017bc9cd87a9a7c5f9e84be41c1a7984/elements {"value": "/html/body/table/tbody/tr/td[1]/a[2]", "using": "xpath", "sessionId": "017bc9cd87a9a7c5f9e84be41c1a7984"}
+2018-04-21 12:28:52,275 [line:517] Finished Request
+2018-04-21 12:28:52,275 [line:422] POST http://127.0.0.1:65173/session/017bc9cd87a9a7c5f9e84be41c1a7984/element/0.2950704417898633-1/click {"id": "0.2950704417898633-1", "sessionId": "017bc9cd87a9a7c5f9e84be41c1a7984"}
+2018-04-21 12:28:52,784 [line:517] Finished Request
+2018-04-21 12:28:52,784 [line:422] POST http://127.0.0.1:65173/session/017bc9cd87a9a7c5f9e84be41c1a7984/accept_alert {"sessionId": "017bc9cd87a9a7c5f9e84be41c1a7984"}
+2018-04-21 12:28:52,825 [line:517] Finished Request
+2018-04-21 12:28:52,825 [line:422] POST http://127.0.0.1:65173/session/017bc9cd87a9a7c5f9e84be41c1a7984/element {"value": "//*[@id=\"s1Id\"]", "using": "xpath", "sessionId": "017bc9cd87a9a7c5f9e84be41c1a7984"}
+2018-04-21 12:28:52,857 [line:517] Finished Request
+2018-04-21 12:28:52,857 [line:422] POST http://127.0.0.1:65173/session/017bc9cd87a9a7c5f9e84be41c1a7984/element/0.5893445546384029-1/element {"value": "//*[@id=\"s1Id\"]/option[2]", "using": "xpath", "id": "0.5893445546384029-1", "sessionId": "017bc9cd87a9a7c5f9e84be41c1a7984"}
+2018-04-21 12:28:52,883 [line:517] Finished Request
+2018-04-21 12:28:52,883 [line:422] POST http://127.0.0.1:65173/session/017bc9cd87a9a7c5f9e84be41c1a7984/element/0.5893445546384029-2/click {"id": "0.5893445546384029-2", "sessionId": "017bc9cd87a9a7c5f9e84be41c1a7984"}
+2018-04-21 12:28:52,921 [line:517] Finished Request
+2018-04-21 12:28:52,921 [line:422] GET http://127.0.0.1:65173/session/017bc9cd87a9a7c5f9e84be41c1a7984/alert_text {"sessionId": "017bc9cd87a9a7c5f9e84be41c1a7984"}
+2018-04-21 12:28:52,923 [line:517] Finished Request
+2018-04-21 12:28:52,923 [line:422] POST http://127.0.0.1:65173/session/017bc9cd87a9a7c5f9e84be41c1a7984/accept_alert {"sessionId": "017bc9cd87a9a7c5f9e84be41c1a7984"}
+2018-04-21 12:28:52,930 [line:517] Finished Request
+2018-04-21 12:28:54,936 [line:422] DELETE http://127.0.0.1:65173/session/017bc9cd87a9a7c5f9e84be41c1a7984 {"sessionId": "017bc9cd87a9a7c5f9e84be41c1a7984"}
+2018-04-21 12:28:54,991 [line:517] Finished Request
+2018-04-21 12:29:08,173 [line:422] POST http://127.0.0.1:65199/session/75c6336597578fe6851676fc0bd4d6d9/element {"sessionId": "75c6336597578fe6851676fc0bd4d6d9", "value": "/html/body/table/tbody/tr/td[3]/a[6]", "using": "xpath"}
+2018-04-21 12:29:08,196 [line:517] Finished Request
+2018-04-21 12:29:08,197 [line:422] POST http://127.0.0.1:65199/session/75c6336597578fe6851676fc0bd4d6d9/element/0.9451656500635046-1/click {"sessionId": "75c6336597578fe6851676fc0bd4d6d9", "id": "0.9451656500635046-1"}
+2018-04-21 12:29:08,523 [line:517] Finished Request
+2018-04-21 12:29:08,524 [line:422] POST http://127.0.0.1:65199/session/75c6336597578fe6851676fc0bd4d6d9/element {"sessionId": "75c6336597578fe6851676fc0bd4d6d9", "value": "//*[@id=\"file\"]", "using": "xpath"}
+2018-04-21 12:29:08,551 [line:517] Finished Request
+2018-04-21 12:29:08,552 [line:422] POST http://127.0.0.1:65199/session/75c6336597578fe6851676fc0bd4d6d9/element {"sessionId": "75c6336597578fe6851676fc0bd4d6d9", "value": "/html/body/form[1]/input[3]", "using": "xpath"}
+2018-04-21 12:29:08,575 [line:517] Finished Request
+2018-04-21 12:29:08,575 [line:422] POST http://127.0.0.1:65199/session/75c6336597578fe6851676fc0bd4d6d9/element/0.9133841997151091-1/clear {"sessionId": "75c6336597578fe6851676fc0bd4d6d9", "id": "0.9133841997151091-1"}
+2018-04-21 12:29:08,604 [line:517] Finished Request
+2018-04-21 12:29:08,605 [line:422] POST http://127.0.0.1:65199/session/75c6336597578fe6851676fc0bd4d6d9/element/0.9133841997151091-1/value {"sessionId": "75c6336597578fe6851676fc0bd4d6d9", "value": ["D", ":", "\\", "P", "y", "c", "h", "a", "r", "m", "P", "r", "o", "j", "e", "c", "t", "s", "\\", "a", "u", "t", "o", "w", "e", "b", "\\", "U", "p", "l", "o", "a", "d", "/", "t", "e", "s", "t", ".", "t", "x", "t"], "id": "0.9133841997151091-1"}
+2018-04-21 12:29:08,639 [line:517] Finished Request
+2018-04-21 12:29:08,639 [line:422] POST http://127.0.0.1:65199/session/75c6336597578fe6851676fc0bd4d6d9/element/0.9133841997151091-2/click {"sessionId": "75c6336597578fe6851676fc0bd4d6d9", "id": "0.9133841997151091-2"}
+2018-04-21 12:29:08,975 [line:517] Finished Request
+2018-04-21 12:29:13,980 [line:422] DELETE http://127.0.0.1:65199/session/75c6336597578fe6851676fc0bd4d6d9 {"sessionId": "75c6336597578fe6851676fc0bd4d6d9"}
+2018-04-21 12:29:14,034 [line:517] Finished Request
