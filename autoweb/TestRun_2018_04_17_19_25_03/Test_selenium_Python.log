@@ -1,0 +1,38 @@
+2018-04-17 19:25:11,302 [line:422] POST http://127.0.0.1:58902/session/2e1d9ad10639717ab5f68370c28b4cc5/elements {"using": "xpath", "value": "/html/body/table/tbody/tr/td[1]/a[1]", "sessionId": "2e1d9ad10639717ab5f68370c28b4cc5"}
+2018-04-17 19:25:11,336 [line:517] Finished Request
+2018-04-17 19:25:11,337 [line:422] POST http://127.0.0.1:58902/session/2e1d9ad10639717ab5f68370c28b4cc5/element/0.3541353788509578-1/click {"id": "0.3541353788509578-1", "sessionId": "2e1d9ad10639717ab5f68370c28b4cc5"}
+2018-04-17 19:25:12,219 [line:517] Finished Request
+2018-04-17 19:25:12,219 [line:422] POST http://127.0.0.1:58902/session/2e1d9ad10639717ab5f68370c28b4cc5/element {"using": "id", "value": "linkById", "sessionId": "2e1d9ad10639717ab5f68370c28b4cc5"}
+2018-04-17 19:25:12,242 [line:517] Finished Request
+2018-04-17 19:25:12,243 [line:422] POST http://127.0.0.1:58902/session/2e1d9ad10639717ab5f68370c28b4cc5/element/0.8685502803456528-1/click {"id": "0.8685502803456528-1", "sessionId": "2e1d9ad10639717ab5f68370c28b4cc5"}
+2018-04-17 19:25:12,566 [line:517] Finished Request
+2018-04-17 19:25:12,566 [line:422] POST http://127.0.0.1:58902/session/2e1d9ad10639717ab5f68370c28b4cc5/elements {"using": "xpath", "value": "/html/body/h2", "sessionId": "2e1d9ad10639717ab5f68370c28b4cc5"}
+2018-04-17 19:25:12,590 [line:517] Finished Request
+2018-04-17 19:25:12,590 [line:422] GET http://127.0.0.1:58902/session/2e1d9ad10639717ab5f68370c28b4cc5/element/0.06948212020662492-1/text {"id": "0.06948212020662492-1", "sessionId": "2e1d9ad10639717ab5f68370c28b4cc5"}
+2018-04-17 19:25:12,615 [line:517] Finished Request
+2018-04-17 19:25:12,616 [line:422] POST http://127.0.0.1:58902/session/2e1d9ad10639717ab5f68370c28b4cc5/elements {"using": "xpath", "value": "/html/body/a", "sessionId": "2e1d9ad10639717ab5f68370c28b4cc5"}
+2018-04-17 19:25:12,635 [line:517] Finished Request
+2018-04-17 19:25:12,635 [line:422] POST http://127.0.0.1:58902/session/2e1d9ad10639717ab5f68370c28b4cc5/element/0.06948212020662492-2/click {"id": "0.06948212020662492-2", "sessionId": "2e1d9ad10639717ab5f68370c28b4cc5"}
+2018-04-17 19:25:12,784 [line:517] Finished Request
+2018-04-17 19:25:12,785 [line:422] GET http://127.0.0.1:58902/session/2e1d9ad10639717ab5f68370c28b4cc5/title {"sessionId": "2e1d9ad10639717ab5f68370c28b4cc5"}
+2018-04-17 19:25:12,794 [line:517] Finished Request
+2018-04-17 19:25:12,823 [line:422] DELETE http://127.0.0.1:58902/session/2e1d9ad10639717ab5f68370c28b4cc5 {"sessionId": "2e1d9ad10639717ab5f68370c28b4cc5"}
+2018-04-17 19:25:12,869 [line:517] Finished Request
+2018-04-17 19:25:25,453 [line:422] POST http://127.0.0.1:58942/session/8ffc23a451df49dd384d2db17302fa02/elements {"value": "/html/body/table/tbody/tr/td[1]/a[2]", "using": "xpath", "sessionId": "8ffc23a451df49dd384d2db17302fa02"}
+2018-04-17 19:25:25,480 [line:517] Finished Request
+2018-04-17 19:25:25,481 [line:422] POST http://127.0.0.1:58942/session/8ffc23a451df49dd384d2db17302fa02/element/0.656737891775111-1/click {"id": "0.656737891775111-1", "sessionId": "8ffc23a451df49dd384d2db17302fa02"}
+2018-04-17 19:25:26,008 [line:517] Finished Request
+2018-04-17 19:25:26,009 [line:422] POST http://127.0.0.1:58942/session/8ffc23a451df49dd384d2db17302fa02/accept_alert {"sessionId": "8ffc23a451df49dd384d2db17302fa02"}
+2018-04-17 19:25:26,016 [line:517] Finished Request
+2018-04-17 19:25:26,017 [line:422] POST http://127.0.0.1:58942/session/8ffc23a451df49dd384d2db17302fa02/element {"value": "//*[@id=\"s1Id\"]", "using": "xpath", "sessionId": "8ffc23a451df49dd384d2db17302fa02"}
+2018-04-17 19:25:26,046 [line:517] Finished Request
+2018-04-17 19:25:26,046 [line:422] POST http://127.0.0.1:58942/session/8ffc23a451df49dd384d2db17302fa02/element/0.0764025450135255-1/element {"value": "//*[@id=\"s1Id\"]/option[2]", "using": "xpath", "id": "0.0764025450135255-1", "sessionId": "8ffc23a451df49dd384d2db17302fa02"}
+2018-04-17 19:25:26,073 [line:517] Finished Request
+2018-04-17 19:25:26,073 [line:422] POST http://127.0.0.1:58942/session/8ffc23a451df49dd384d2db17302fa02/element/0.0764025450135255-2/click {"id": "0.0764025450135255-2", "sessionId": "8ffc23a451df49dd384d2db17302fa02"}
+2018-04-17 19:25:26,115 [line:517] Finished Request
+2018-04-17 19:25:26,115 [line:422] GET http://127.0.0.1:58942/session/8ffc23a451df49dd384d2db17302fa02/alert_text {"sessionId": "8ffc23a451df49dd384d2db17302fa02"}
+2018-04-17 19:25:26,117 [line:517] Finished Request
+2018-04-17 19:25:26,117 [line:422] POST http://127.0.0.1:58942/session/8ffc23a451df49dd384d2db17302fa02/accept_alert {"sessionId": "8ffc23a451df49dd384d2db17302fa02"}
+2018-04-17 19:25:26,121 [line:517] Finished Request
+2018-04-17 19:25:28,127 [line:422] DELETE http://127.0.0.1:58942/session/8ffc23a451df49dd384d2db17302fa02 {"sessionId": "8ffc23a451df49dd384d2db17302fa02"}
+2018-04-17 19:25:28,176 [line:517] Finished Request
